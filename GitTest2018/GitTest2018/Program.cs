@@ -10,8 +10,8 @@ namespace GitTest2018
     {
         static void Main(string[] args)
         {
-            string name = Console.ReadLine();
-            Console.WriteLine("Hello " +name + "!");
+            string dog = Console.ReadLine();
+            Console.WriteLine("Hello " +dog + "!");
             Console.ReadKey();
         }
     }
