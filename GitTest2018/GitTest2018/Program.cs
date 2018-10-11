@@ -10,6 +10,7 @@ namespace GitTest2018
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello!");
         }
     }
 }
